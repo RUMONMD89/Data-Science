@@ -5,3 +5,4 @@ Data Science is about extraction, preparation, analysis, visualization, and main
 ## What does a data science do?
 
 Data scientists examine which questions need answering and where to find the related data. They have business acumen and analytical skills as well as the ability to mine, clean, and present data.
+## Why is data science important?
